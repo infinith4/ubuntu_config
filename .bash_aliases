@@ -14,7 +14,6 @@ alias la='ls -A'
 alias l='ls -CF'
 
 alias opendir='nautilus .'
-alias python='/usr/bin/python3'
 alias pip='/usr/bin/pip3'
 alias cat='cat -n'
 alias emacs='emacs -nw'
